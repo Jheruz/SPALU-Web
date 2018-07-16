@@ -1,0 +1,12 @@
+.marginTop{
+	margin-top:10px;
+}
+.form-control {
+    padding-right: 30px;
+}
+
+.form-control + .glyphicon {
+    position: absolute;
+    right: 0;
+    padding: 8px 27px;
+}
